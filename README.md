@@ -1,4 +1,4 @@
-# e-learning_0002_
+# e-learning_0002_exercies_answer
 コース：Javaプログラミング基礎
 演習問題の解答例：サンプルコードです。
 
